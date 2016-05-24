@@ -15,7 +15,7 @@ public class Main {
 		
 		
 		/*
-		 * Mostre o valor do maior e menor número do vetor.
+		 * Mostre o valor do maior e do menor número do vetor.
 		 */
 		
 		
